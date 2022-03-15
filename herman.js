@@ -52,7 +52,7 @@ owner = setting.OwnerNumber//ubah di file setting.json
 botname = setting.BotName//ubah di file setting.json
 ownername = setting.OwnerName//ubah di file setting.json
 fake = setting.Fake
-pe = 'https://instagram.com/cal_me_herman?utm_medium=copy_'
+pe = 'https://instagram.com/_D.yann?utm_medium=copy_'
 //࿇ ══━━━━━━━━━━━━━━━━━━━━✥SUBSCRIBE HERMAN CHANEL✥━━━━━━━━━━━━━━━━━━━━━━━━══ ࿇
 AlphaBot = 'Alphabot'
 Leyscoders = 'IkyOgiwara'
@@ -722,8 +722,8 @@ case 'sewabot':
 daftar = `Halo ka ${pushname}
 ━━━━━ • ஜ • ❈ • ஜ • ━━━━━
 • 🛒List Harga Sewa Botz🛒
-💰 3k 1minggu
-💰 5k permanen
+💰 11k 1bulan
+💰 15k permanen
 minat ? Hubungi Owner Ketik #owner 
 ━━━━━ • ஜ • ❈ • ஜ • ━━━━━
 `
